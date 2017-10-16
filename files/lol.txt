@@ -1,1 +1,0 @@
-{"dateOfDelivery":"01/01/01","expirationDate":10,"price":77.77,"type":"Avocado"}
